@@ -1,0 +1,7 @@
+welcome-message: §aПривет, %player_name%! Добро пожаловать на сервер!
+# Включить/выключитть функцию приветствия:
+enable-welcome-message: false
+chat-echo-prefix: §c[RED Эхо] §5
+# включить/выключить функцию тнт!
+disable-tnt: true
+exp-amount-on-command: 10000

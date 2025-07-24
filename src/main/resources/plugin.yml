@@ -1,0 +1,17 @@
+name: EventPluginCancel
+version: '1.0-SNAPSHOT'
+main: com.KYRLA_Ktiw.EventPluginCancel
+api-version: '1.20'
+commands:
+  blockinfo:
+    description: Показывает информацию о блоке, на который смотрит игрок
+    usage: /blockinfo
+  checkregion:
+    description: Чек региона
+    usage: /checkregion
+  spawnguard:
+    description: спавн стража
+    usage: /spawnguard
+  clearitems:
+    description: очистка предметов
+    usage: /clearitems
